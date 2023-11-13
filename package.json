@@ -21,7 +21,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage":"https://wocaso.github.io/HistoriasClinicasSilvia/"
+    "homepage":"https://wocaso.github.io/SilviaHistorias4ea7bd5bc51ea321544af2530d56e93b/"
   },
   "eslintConfig": {
     "extends": [
