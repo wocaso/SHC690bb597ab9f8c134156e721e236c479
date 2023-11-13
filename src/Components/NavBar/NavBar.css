@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin&display=swap');
+#NavBarContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: auto;
+    margin-top: 4vh;
+    width: 500px;
+    height: auto;
+}
+
+
+.NavBarLink{
+    font-size: 25px;
+    text-decoration: none;
+    font-family: 'Libre Franklin', sans-serif;
+    color: black;
+    padding: 10px 20px;
+    border: 2px solid #3498db;
+    border-radius: 5px;
+    background-color: #3498db;
+    color: #ffffff;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+
+.NavBarLink:hover {
+    /* Efecto hover */
+    background-color: #2980b9;
+    border-color: #2980b9;
+    color: #ffffff;
+  }
+  
+  .NavBarLink:active {
+    /* Efecto clic */
+    background-color: #21618c;
+    border-color: #21618c;
+    color: #ffffff;
+  }

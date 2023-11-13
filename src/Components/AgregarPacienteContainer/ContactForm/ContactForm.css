@@ -1,0 +1,68 @@
+#ContactFormContainer{
+    display: flex;
+    flex-direction: column;
+    width: 660px;
+    height: 400px;
+    justify-self: center;
+    margin: auto;
+    margin-top: 30px;
+    
+}
+
+.inputForm{
+    font-size: 25px;
+    text-align: start ;
+
+}
+
+.labelForm{
+    font-size: 30px;
+    font-family: 'Sofia Sans', sans-serif;
+    font-weight: 400;
+    /* investigar grilla de 8, tu vieja es multiplo de 2 */
+
+    text-align: start;
+    
+}
+
+.formItem{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.inputFormText{
+    font-size: 25px;
+    margin-top: 10px;
+    text-align: start;
+    height: 130px;
+    resize: none
+}
+
+#buttonForm{
+    font-size: 25px;
+    text-decoration: none;
+    font-family: 'Libre Franklin', sans-serif;
+    color: black;
+    padding: 10px 20px;
+    border: 2px solid #3498db;
+    border-radius: 5px;
+    background-color: #3498db;
+    color: #ffffff;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+
+#buttonForm:hover {
+    /* Efecto hover */
+    background-color: #2980b9;
+    border-color: #2980b9;
+    color: #ffffff;
+  }
+  
+  #buttonForm:active {
+    /* Efecto clic */
+    background-color: #21618c;
+    border-color: #21618c;
+    color: #ffffff;
+  }

@@ -1,0 +1,36 @@
+#HistoriaPacienteCardContainer{
+    height: auto;
+    width: 40vw;
+    margin: auto;
+    margin-top: 10vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    border: 2px solid rgb(211, 211, 211);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+
+#HistoriaPacienteCardCaso{
+    height: 23vh;
+    width: 35vw;
+    margin: auto;
+    overflow: auto;
+    white-space: pre-wrap;
+    resize: none;
+    border: none;
+    outline: none;
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 20px;
+}
+
+
+#HistoriaPacienteCardFecha{
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 20px;
+    margin: auto;
+    background-color: rgb(206, 206, 206);
+    width: 40vw;
+
+}
