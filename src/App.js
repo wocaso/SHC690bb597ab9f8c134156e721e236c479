@@ -10,8 +10,8 @@ import FichaPacienteContainer from './Components/FichaPacienteContainer/FichaPac
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
       <NavBar/>
+      <BrowserRouter>
       <Routes>
       <Route path='/AgregarPaciente' element={<AgregarPacienteContainer/>}/>
       <Route path='/BuscarPaciente' element={<BuscarPacienteContainer/>}/>

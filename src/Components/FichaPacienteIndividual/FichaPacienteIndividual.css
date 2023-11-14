@@ -3,7 +3,7 @@
     height: 62vh;
     width: 40vw;
     margin: auto;
-    margin-top: 10vh;
+    margin-top: 10px;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -17,6 +17,8 @@
     display: flex;
     flex-direction: row;
     font-family: Work Sans;
+    font-size: 13px;
+    margin-top: -10px;
     margin-left: 30px;
 }
 

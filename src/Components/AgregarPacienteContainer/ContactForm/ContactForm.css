@@ -2,7 +2,6 @@
     display: flex;
     flex-direction: column;
     width: 660px;
-    height: 400px;
     justify-self: center;
     margin: auto;
     margin-top: 30px;
@@ -10,13 +9,13 @@
 }
 
 .inputForm{
-    font-size: 25px;
+    font-size: 22px;
     text-align: start ;
 
 }
 
 .labelForm{
-    font-size: 30px;
+    font-size: 22px;
     font-family: 'Sofia Sans', sans-serif;
     font-weight: 400;
     /* investigar grilla de 8, tu vieja es multiplo de 2 */

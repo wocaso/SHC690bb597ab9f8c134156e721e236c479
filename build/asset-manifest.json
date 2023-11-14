@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e1cb3890.css",
-    "main.js": "/static/js/main.1ba57df6.js",
-    "static/js/787.03259dec.chunk.js": "/static/js/787.03259dec.chunk.js",
-    "index.html": "/index.html",
-    "main.e1cb3890.css.map": "/static/css/main.e1cb3890.css.map",
-    "main.1ba57df6.js.map": "/static/js/main.1ba57df6.js.map",
-    "787.03259dec.chunk.js.map": "/static/js/787.03259dec.chunk.js.map"
+    "main.css": "/SilviaHisClinicas-690bb597ab9f8c134156e721e236c479/static/css/main.e1cb3890.css",
+    "main.js": "/SilviaHisClinicas-690bb597ab9f8c134156e721e236c479/static/js/main.4f2c5b5b.js",
+    "static/js/787.03259dec.chunk.js": "/SilviaHisClinicas-690bb597ab9f8c134156e721e236c479/static/js/787.03259dec.chunk.js",
+    "index.html": "/SilviaHisClinicas-690bb597ab9f8c134156e721e236c479/index.html",
+    "main.e1cb3890.css.map": "/SilviaHisClinicas-690bb597ab9f8c134156e721e236c479/static/css/main.e1cb3890.css.map",
+    "main.4f2c5b5b.js.map": "/SilviaHisClinicas-690bb597ab9f8c134156e721e236c479/static/js/main.4f2c5b5b.js.map",
+    "787.03259dec.chunk.js.map": "/SilviaHisClinicas-690bb597ab9f8c134156e721e236c479/static/js/787.03259dec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e1cb3890.css",
-    "static/js/main.1ba57df6.js"
+    "static/js/main.4f2c5b5b.js"
   ]
 }
